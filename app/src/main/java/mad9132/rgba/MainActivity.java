@@ -1,3 +1,8 @@
+/**
+ *  HSV app
+ *  @Petra Chrisostomakis (chri0195@algonquinlive.com)
+ */
+
 package mad9132.rgba;
 
 import android.graphics.Color;
