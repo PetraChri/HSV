@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HSV</string>
+    <string name="action_about">About</string>
+    <!-- TODO: replace your name -->
+    <string name="author">Petra Chrisostomakis (chri0195)</string>
+    <string name="Hue">Hue</string>
+    <string name="Saturation">Saturation</string>
+    <string name="Value">Brightness</string>
+</resources>
